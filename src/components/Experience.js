@@ -44,7 +44,7 @@ const Experience = () => {
                         companyLink={"https://sparcindia.com"}
                         time={"Sep 2023 - present"}
                         address={"E-11, Infocity, Bhubaneswar, Odisha, IN"}
-                        work={"Worked in the Corporate Comunication & Business Development team to design various Social Media posts and Branding content & develop Company website"}
+                        work={"Worked in the Corporate Comunication & Business Development team to design various Social Media posts and Branding content. Also worked on UI/UX design of website, app & other digital products."}
                     />
                     <Details
                         position={"Software Developer"}
